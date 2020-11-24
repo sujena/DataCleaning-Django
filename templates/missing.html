@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% for line in list %}
+    <tr>
+       {% for data in line %}
+          <td>{{ data }}</td>
+       {% endfor %}
+    </tr>
+  {% endfor %}
+{% endblock content %}

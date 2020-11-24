@@ -1,0 +1,83 @@
+iata,icao,airport_name,location,gps
+iata,icao,airport_name,location,gps
+TLH,KTLH,Tallahassee International Airport,within Tallahassee city limits.,30.39667°N 84.35028°W
+TOL,KTOL,Toledo Express Airport,"Swanton / Monclova townships, Lucas County, Ohio, United States",41.586806°N 83.807833°W
+TPA,KTPA,Tampa International Airport (TPA),"Tampa / Town 'n' Country, Florida, U.S.",27.97556°N 82.53333°W
+TRI,KTRI,Tri-Cities Airport,"Blountville, Tennessee, U.S.",36.47528°N 82.40750°W
+TUL,KTUL,Tulsa International Airport,"Tulsa, Oklahoma, U.S.",36.19833°N 95.88806°W
+TYS,KTYS,McGhee Tyson Airport,"Alcoa, Tennessee, U.S.",35.81111°N 83.99389°W
+VPS,KVPS,Destin–Fort Walton Beach Airport,"within Eglin Air Force Base, adjacent to Valparaiso",30.48333°N 86.52528°W
+BOJ,LBBG,Burgas Airport,"Burgas, Bulgaria",42.57028°N 27.51528°E
+SOF,LBSF,Sofia Airport,Sofia,42.69500°N 23.40833°E
+LCA,LCLK,Larnaca International Airport,Larnaca,34.87889°N 33.63028°E
+ALC,LEAL,Alicante–Elche Airport,Elche (Alicante),38.28222°N 0.55806°W
+MAD,LEMD,Adolfo SuárezMadrid-Barajas Airport[1],"District of Barajas, Madrid",40.47222°N 3.56083°W
+AGP,LEMG,Málaga Airport,"Churriana, Málaga, Andalusia, Spain",36.67500°N 4.49917°W
+TLS,LFBO,Toulouse Blagnac Airport,Blagnac,43.63500°N 1.36778°E
+LYS,LFLL,Lyon–Saint Exupéry Airport,Colombier-Saugnieu,45.72556°N 5.08111°E
+CDG,LFPG,Paris Charles de Gaulle Airport,"Roissy-en-France, France",49.00972°N 2.54778°E
+ORY,LFPO,Paris Orly Airport,Essonne and the Val-de-Marne,48.72333°N 2.37944°E
+ATH,LGAV,"Athens International Airport""Eleftherios Venizelos""",Spata,37.93639°N 23.94722°E
+SKG,LGTS,"Thessaloniki Airport ""Makedonia""","Mikra, Macedonia, Greece",40.51972°N 22.97083°E
+BUD,LHBP,Budapest Liszt Ferenc International Airport,16 km (9.9 mi) south-east of center of Budapest,47.43944°N 19.26194°E
+CTA,LICC,Catania–Fontanarossa Airport,Catania,37.46667°N 15.06389°E
+MXP,LIMC,Milan Malpensa Airport,"Ferno, Varese",45.63000°N 8.72306°E
+BGY,LIME,Orio al Serio International Airport,Orio al Serio,45.66889°N 9.70028°E
+LIN,LIML,Milan Linate Airport,Segrate and Peschiera Borromeo,45.44944°N 9.27833°E
+VRN,LIPX,Verona Airport,Villafranca di Verona,45.39639°N 10.88806°E
+CIA,LIRA,"Rome—Ciampino International Airport ""G. B. Pastine""","Ciampino, (RM), Italy",41.79944°N 12.59722°E
+FCO,LIRF,"Rome–Fiumicino International Airport ""Leonardo da Vinci""",Fiumicino,41.80028°N 12.23889°E
+NAP,LIRN,Naples International Airport,Capodichino,40.88444°N 14.29083°E
+VIE,LOWW,Vienna International Airport,"Schwechat, Austria",48.11083°N 16.57083°E
+PDL,LPPD,Ponta Delgada-João Paulo II Airport,Relva,37.74194°N 25.69778°W
+OPO,LPPR,Francisco Sá Carneiro Airport,11 km (6.8 mi) NW of Porto,41.23556°N 8.67806°W
+LIS,LPPT,Humberto Delgado Airport,"Olivais, Lisbon",38.77417°N 9.13417°W
+SJJ,LQSA,Sarajevo International Airport,Butmir,43.82472°N 18.33139°E
+ZRH,LSZH,Zurich Airport,"Kloten, Rümlang, Oberglatt, Winkel and Opfikon[1]",47.46472°N 8.54917°E
+DLM,LTBS,Dalaman Airport,"Dalaman, Turkey",36.71472°N 28.79278°E
+BJV,LTFE,Milas–Bodrum Airport,"Bodrum, Turkey",37.25056°N 27.66417°E
+SAW,LTFJ,Istanbul Sabiha Gökçen International Airport,"Pendik, Istanbul",40.89833°N 29.30917°E
+BEG,LYBE,Belgrade Nikola Tesla Airport,"Zemun, Serbia",44.81944°N 20.30694°E
+TGD,LYPG,Podgorica Airport,"Golubovci, Montenegro",42.35944°N 19.25194°E
+PUJ,MDPC,Punta Cana International Airport,"Punta Cana in La Altagracia Province, Dominican Republic",18.56667°N 68.35194°W
+SDQ,MDSD,Las Américas International Airport,"Punta Caucedo, Dominican Republic",18.42944°N 69.66889°W
+KIN,MKJP,Norman ManleyInternational Airport,Palisadoes,17.93556°N 76.78750°W
+ACA,MMAA,General Juan N. Álvarez International Airport,"Acapulco, Guerrero, Mexico",16.756028°N 99.751611°W
+GDL,MMGL,Guadalajara International Airport,"Tlajomulco de Zúñiga, Jalisco",20.52167°N 103.31111°W
+HMO,MMHO,General Ignacio Pesqueira García International Airport,"Hermosillo, Sonora",29.09583°N 111.04778°W
+MEX,MMMX,Mexico City International Airport,"Venustiano Carranza, Mexico City",19.43611°N 99.07194°W
+MTY,MMMY,Monterrey International Airport,"Apodaca, Nuevo Leon, Mexico",25.77833°N 100.10639°W
+PVR,MMPR,Lic. Gustavo Díaz Ordaz International Airport,"Puerto Vallarta, Jalisco",20.68000°N 105.25417°W
+SJD,MMSD,Los Cabos International Airport,"San José del Cabo,Los Cabos Municipality,Baja California Sur state,Mexico",23.15167°N 109.72083°W
+TIJ,MMTJ,Tijuana International Airport,"Tijuana, Baja California(CBX terminal in Otay Mesa, San Diego, California)",32.54083°N 116.97000°W
+CUN,MMUN,Cancun International Airport,"Cancún, Quintana Roo, Mexico",21.03667°N 86.87694°W
+PTY,MPTO,Tocumen International Airport,Tocumen,9.07139°N 79.38361°W
+NAS,MYNN,Lynden Pindling International Airport,"Nassau, Bahamas",25.03889°N 77.46611°W
+RAR,NCRG,Rarotonga International Airport,"Avarua, Rarotonga, Cook Islands",21.20278°S 159.80556°W
+PPT,NTAA,Faa'a International Airport,Papeete,17.55667°S 149.61139°W
+JED,OEJN,King Abdulaziz International Airport,Al Madinah Al Munawwarah Road,21.67944°N 39.15667°E
+RUH,OERK,King Khalid International Airport,"Riyadh, Saudi Arabia",24.95778°N 46.69889°E
+IKA,OIIE,Imam Khomeini International Airport (IKIA),"Ahmadabad, Tehran, Iran",35.41611°N 51.15222°E
+THR,OIII,Mehrabad International Airport,"Tehran, Iran",35.68917°N 51.31361°E
+SYZ,OISS,Shiraz Shahid Dastgheib International Airport,"Shiraz, Iran",29.53917°N 52.59000°E
+KWI,OKBK,Kuwait International Airport,"Farwaniya Governorate, Kuwait",29.22667°N 47.98000°E
+DWC,OMDW,Al Maktoum International Airport,"Jebel Ali, United Arab Emirates",24.8882778°N 55.1603778°E
+CGY,RPMY,Laguindingan Airport,"Barangay Moog, Laguindingan, Misamis Oriental",8.61250°N 124.45722°E
+HNL,PHNL,Daniel K. Inouye International Airport,"Honolulu, Hawaii, United States",21.31861°N 157.92250°W
+DOH,OTHH,Hamad International Airport,"Doha, Qatar",25.27306°N 51.60806°E
+KHH,RCKH,Kaohsiung International Airport,"Siaogang District, Kaohsiung, Taiwan",22.57694°N 120.35000°E
+TPE,RCTP,Taiwan Taoyuan International Airport,"Dayuan District, Taoyuan, Taiwan",25.07639°N 121.22389°E
+NRT,RJAA,Narita International Airport,"Narita, Chiba, Japan",35.76528°N 140.38556°E
+KIX,RJBB,Kansai International Airport,"Izumisano, Sennan, & Tajiri Osaka Prefecture",34.43417°N 135.23278°E
+CTS,RJCC,New Chitose International Airport,City of Chitose and Tomakomai,42.77528°N 141.69250°E
+HRB,ZYHB,Harbin Taiping International Airport,"near the town of Taiping, Daoli District, Harbin",45.6234028°N 126.2503278°E
+AIU,NCAT,Enua Airport,"Atiu, Cook Islands",19.96778°S 158.12000°W
+PUK,NTGQ,Pukarua Airport,"Pukarua, Tuamotu, French Polynesia",18.29556°S 137.01694°W
+NUK,NTGW,Nukutavake Airport,"Nukutavake, Tuamotu, French Polynesia",19.28500°S 138.77194°W
+SSR,FIMP,Sir Seewoosagur Ramgoolam International Airport,Plaine Magnien,20.4300278°S 57.6830222°E
+MWF,NVSN,Maewo-Naone Airport,"Maewo, Vanuatu",14.99722°S 168.08111°E
+MLY,AYLM,Lake Murray Airport,"Lake Murray, Papua New Guinea",7.0099194°S 141.4940028°E
+AWB,AYAW,Awaba Airport,"Awaba, Papua New Guinea",8.01433°S 142.75100°E
+SKC,AYSU,Suki Airport,"Suki, Papua New Guinea",8.046528°S 141.722139°E
+CDY,RPMU,Cagayan de Sulu Airport,"Mapun, Tawi-Tawi",7.01361°N 118.49500°E
+RZP,RPSD,Cesar Lim Rodriguez Airport,"Barangay Sandoval, Taytay, Palawan",10.81861°N 119.50750°E
