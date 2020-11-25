@@ -1,1 +1,45 @@
-<h1>Changes made</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Difference in the files</h2>
+
+<table>
+  <tr>
+      <th>IATA</th>
+      <th>Airport Name(scraped data)</th>
+      <th>Airport Name</th>
+      <th>Location(scraped data)</th>
+      <th>Location</th>
+      <th>GPS(scraped data)</th>
+      <th>GPS</th>
+  </tr>
+    {% for line in list %}
+    <tr>
+       {% for data in line %}
+          <td>{{ data }}</td>
+       {% endfor %}
+    </tr>
+  {% endfor %}
+</table>
+</body>
+</html>

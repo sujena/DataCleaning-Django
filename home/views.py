@@ -41,10 +41,16 @@ def checkMissing(line):
     return pct
 
 def makeChanges(request):
+    data=[]
     for i in Airport1.objects.all():
         if Airport2.objects.filter(iata=i.iata).exists():
+            j=Airport2.objects.filter(iata=i.iata)
             line = [i.iata, i.icao, i.name, i.location, i.gps]
+            #line2= [j.iata, j.airport_name, j.city, j.coordinates]
+            row = [i.iata, i.name, j[0].airport_name,i.location, j[0].city, i.gps,j[0].coordinates]
+            data.append(row)
             pct= checkMissing(line)
+            '''
             if pct == 0:
                 obj= Airport2.objects.get(iata=i.iata)
                 obj.airport_name=i.name
@@ -52,7 +58,8 @@ def makeChanges(request):
                 obj.coordinates=i.gps
                 obj.local_code = i.icao
                 obj.save()
-    return render(request, 'changes.html')
+            '''
+    return render(request, 'changes.html', {'list':data})
 
 
 

@@ -26,3 +26,4 @@ class Airport2(models.Model):
     local_code=models.CharField(max_length=100)
     coordinates=models.CharField(max_length=100)
 
+
