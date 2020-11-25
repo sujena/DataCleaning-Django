@@ -1,7 +1,7 @@
 from django.shortcuts import render
 import csv
 from home.models import Airport1,Airport2
-import numpy as np
+
 # Create your views here.
 def createdb1():
     csv_file = open('airport_info.csv', 'r')
@@ -50,7 +50,7 @@ def makeChanges(request):
             row = [i.iata, i.name, j[0].airport_name,i.location, j[0].city, i.gps,j[0].coordinates]
             data.append(row)
             pct= checkMissing(line)
-            '''
+
             if pct == 0:
                 obj= Airport2.objects.get(iata=i.iata)
                 obj.airport_name=i.name
@@ -58,7 +58,7 @@ def makeChanges(request):
                 obj.coordinates=i.gps
                 obj.local_code = i.icao
                 obj.save()
-            '''
+
     return render(request, 'changes.html', {'list':data})
 
 
